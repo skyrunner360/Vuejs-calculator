@@ -5,7 +5,7 @@ I made a Calculator using Vue js.
 
 ---
 
-#usage
+## usage
 Just do `npm run serve` to view the application in your browser.
 
 ![Ubuntu package](https://img.shields.io/ubuntu/v/sc) ![GitHub last commit](https://img.shields.io/github/last-commit/skyrunner360/Vuejs-calculator)
